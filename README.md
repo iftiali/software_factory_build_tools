@@ -8,10 +8,8 @@ The repository contains a Tomcat server modified to work on port 8083 and pre-co
 
 # License
 
-The contents of this repository are free software; you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free
-Software Foundation; either version 3 of the License, or (at your option) any later version.
-
-http://www.gnu.org/licenses/agpl-3.0.en.html
+The contents of this repository are free software; you can redistribute it and/or modify it under the terms of the Apache License, version 2.0.
+http://www.apache.org/licenses/LICENSE-2.0.txt
 
 # Acknowledgements & thanks
 
